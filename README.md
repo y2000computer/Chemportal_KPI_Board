@@ -1,5 +1,7 @@
 # Chemportal
 
+Framework: Vue.JS + Nuxt.JS + Material.IO CSS
+
 > Chemtest Chemportal
 
 ## Build Setup
